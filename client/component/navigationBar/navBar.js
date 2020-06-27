@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import css from '../../Style.css';
-const image = '../../image.png';
+const image = '../../asset/image.png';
 export default class NavBar extends Component {
   render() {
     return (
